@@ -134,6 +134,7 @@ and paste in the dict and schema files.
 Open the file
 default.custom.yaml
 and add references to the two input methods
+
 ![img_1.png](images/img_1.png)
 
 Then select rime from the list of input methods,
