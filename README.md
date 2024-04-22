@@ -20,7 +20,7 @@ the shape based systems use very complicated rules that make them hard to lean.
 The motivation for creating the POF system was thus to create
 a system that was easy to lean, could write any (common use)
 character without the need for scrolling through a list,
-yet using no more than 4 keystrokes plus the 1-9 numberkeys
+yet using no more than 4 keystrokes pr. character plus the 1-9 numberkeys
 for selection.
 
 Here "common use" means that when using the POFsimp dict and schema files, 
