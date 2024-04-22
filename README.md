@@ -24,13 +24,13 @@ yet using no more than 4 keystrokes plus the 1-9 numberkeys
 for selection.
 
 Here "common use" means that when using the POFsimp dict and schema files, 
-you can write any of the characters in this frequency list without
+you can write any of the first 5000 characters in this frequency list without
 scrolling:
 
 https://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=IM
 
 When using the POFtrad dict and schema files, you can write 
-any of the characters in this frequency list without scrolling:
+any of the first 5000 characters in this frequency list without scrolling:
 
 http://technology.chtsai.org/charfreq/sorted.html
 
