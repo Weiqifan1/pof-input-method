@@ -112,9 +112,9 @@ at the start of the character.
 So 鑫 is written owht and not ooo.
 
 when writing the characters for the elemments themselves,
-you can either use the the key:
+you can either use the keys:
 
-食 w 言 e 馬 r 糸 u 車 i 金 o 足 s 木 d 竹 f 虫 j 目 k 手 l
+食 w 言 e 馬 r 糸 u 車 i 金 o 門 p 足 s 木 d 竹 f 虫 j 目 k 手 l
 
 but you can also write those 13 characters with just strokes
 
@@ -125,12 +125,13 @@ but you can also write those 13 characters with just strokes
 
 This means that if you are only going to write simplified
 character, you will only have to learn the special 
-functions for 6 keys on the middle row: sdf and jkl.
+functions for 6 keys on the middle row: sdf and jkl, since the elements
+on the other 7 keys are not used for simplified characters.
+You therefore only have to learn all 13 if you write traditional characters. 
 
-If you dont like to use this special functionaly, it is also possible
+If you dont like to use this special functionaly for the 13 keys, it is also possible
 to write characters using up to 6 keystrokes instead of 4,
 where you ignore the special functions of the 13 keys.
-
 For excample 詔	edxh can instead be written 詔 hhxmrg or yhxmrg.
 
 Chinese punctuation characters and parenthesis can be written 
