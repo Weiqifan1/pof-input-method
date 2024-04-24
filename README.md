@@ -206,9 +206,33 @@ https://wiki.michaelhan.net/Hanja_IME
 
 # Other git repos for RIME input methods
 
+* Wubi
+
+(comes with RIME)
+
+lookup: https://www.zdic.net
+
+http://www.chinesemac.org/wubi/xing.html
+
+https://indonesia-kita.com/WubiLearner_Intro.html
+
+https://madmansnest.com/2018/03/26/wubi-introduction.html
+
+https://www.reddit.com/r/ChineseLanguage/comments/2rjx05/free_webapp_for_learning_the_wubi_keyboard_layout
+
 * Cangjie
 
 https://github.com/rime/rime-cangjie
+
+code lookup:
+
+https://www.mdbg.net (click on the character and look at the right side).
+
+or https://www.zdic.net/
+
+https://dylansung.tripod.com/methods/cangjie_utf8.htm
+
+https://en.wikipedia.org/wiki/Cangjie_input_method
 
 * Zhengma
 
@@ -216,19 +240,31 @@ https://github.com/clayjar/rime-zhengma
 
 https://github.com/Openvingen/rime-zhengma
 
+character lookup: https://zhengma.911cha.com/
+
+or https://www.zdic.net/
+
+https://www.scribd.com/document/6082054/ZhengMa-Tutorial
+
+https://en.wikibooks.org/wiki/Zhengma_Input
+
 * Dayi
 
 https://github.com/chiahsien/RimeDayi
+
+https://en.wikibooks.org/wiki/Guide_to_Dayi_input/Introduction
 
 * Array
 
 https://github.com/rime/rime-array
 
+https://en.wikibooks.org/wiki/Guide_to_Array_input
+
 * G6
 
-http://www.miniapps.hk/g6code/
-
 https://github.com/cyrus0880/rime-t9stroke
+
+https://en.wikibooks.org/wiki/Guide_to_Array_input
 
 //end
 
