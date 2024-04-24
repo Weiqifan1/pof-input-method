@@ -1,6 +1,6 @@
 # rime-pof-input-method
 Pairs-of-five-strokes: An input method for writing Chinese characters on computers, 
-primarily developed for the RIME input method editor.
+primarily developed for the RIME input method editor. Created by Lykke (@Weiqifan1).
 
 # About the POF input method
 
@@ -38,6 +38,11 @@ This system contains a total of 28098 different characters taken from this repos
 https://github.com/stroke-input/stroke-input-data
 compiled by Conway (@yawnoc).
 Licensed under Creative Commons Attribution 4.0 International (CC-BY-4.0).
+
+The IDS data used for creating the special functions for the 13 keys is the ids.tx file from
+this project:
+https://github.com/cjkvi/cjkvi-ids/blob/master/ids.txt
+Originally from https://www.chise.org/
 
 # How to use the POF system
 
