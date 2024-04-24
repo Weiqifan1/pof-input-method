@@ -34,6 +34,13 @@ any of the first 5000 characters in this frequency list without scrolling:
 
 http://technology.chtsai.org/charfreq/sorted.html
 
+This system contains a total to 28098 different characters taken from this repository:
+https://github.com/stroke-input/stroke-input-data
+compiled by Conway (@yawnoc).
+Licensed under Creative Commons Attribution 4.0 International (CC-BY-4.0).
+
+# How to use the POF system
+
 To make it easy to learn, POF is fundamentally based on strokeorder.
 It uses the standard 5 strokes in this order:
 
@@ -56,6 +63,8 @@ Each key correspond to two strokes according to this table:
 For example, by pressing “g” you can write characters 
 like 乙 （a single bent stroke）or 刁 （a bent stroke plus a horizontal stroke）
 by pressing “m” you can write for example 七 or 匕
+
+# Code examples
 
 To write more complex characters, you combine keys like this:
 
