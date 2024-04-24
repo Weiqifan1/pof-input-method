@@ -139,12 +139,15 @@ using the ,. and z key.
 
 Examples:
 
-, ，
-. 。
-z ，
-z 。
-zzz 《》
-zzz 「」
+| key  | output |
+|-----|--------|
+| ,   | ，      |
+| .   | 。      |
+| z   | ，      |
+| z   | 。      |
+| zzz | 《》     |
+| zzz | 「」     |
+
 
 # Guide to installing the POF input method
 
