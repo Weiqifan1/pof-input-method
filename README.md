@@ -138,7 +138,7 @@ zzz 「」
 
 # Guide to installing the POF input method
 
-First install RIME.
+First install RIME (you can use the guide linked to below).
 
 Then go to
 C:\Users\USER\AppData\Roaming\Rime
