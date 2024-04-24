@@ -34,7 +34,7 @@ any of the first 5000 characters in this frequency list without scrolling:
 
 http://technology.chtsai.org/charfreq/sorted.html
 
-This system contains a total to 28098 different characters taken from this repository:
+This system contains a total of 28098 different characters taken from this repository:
 https://github.com/stroke-input/stroke-input-data
 compiled by Conway (@yawnoc).
 Licensed under Creative Commons Attribution 4.0 International (CC-BY-4.0).
