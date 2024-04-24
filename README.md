@@ -39,14 +39,13 @@ It uses the standard 5 strokes in this order:
 
 horizontal: 一 （heng 横， ti 提）
 
-vertical： 丨 （shu 竖 gou 钩）
+vertical： 丨 （shu 竖, shugou 竖钩）
 
-left： 丿 （wan 弯 pie 撇）
+left： 丿 （wan 弯, pie 撇）
 
-right： 丶 （dian 点 na 捺）
+right： 丶 （dian 点, na 捺）
 
-bent： 乚 （all the bent strokes, for example
-heng gou 横钩 shu wan 竖弯 ect.）
+bent： 乚 （all the bent strokes）
 
 ![img_01.png](images/img_01.png)
 
@@ -103,7 +102,23 @@ you only use a single key for these shapes if the shape is
 at the start of the character.
 So 鑫 is written owht and not ooo.
 
-If you dont like to use this functionaly, it is also possible
+when writing the characters for the elemments themselves,
+you can either use the the key:
+
+食 w 言 e 馬 r 糸 u 車 i 金 o 足 s 木 d 竹 f 虫 j 目 k 手 l
+
+but you can also write those 13 characters with just strokes
+
+食 wphw 言 yhxh 馬 nhxo
+糸 auw 車 jghn 金 whct 門 xhxh
+足 xjky 木 jw 竹 tvj 
+虫 xjl 目 xhh 手 tj
+
+This means that if you are only going to write simplified
+character, you will only have to learn the special 
+functions for 6 keys on the middle row: sdf and jkl.
+
+If you dont like to use this special functionaly, it is also possible
 to write characters using up to 6 keystrokes instead of 4,
 where you ignore the special functions of the 13 keys.
 
